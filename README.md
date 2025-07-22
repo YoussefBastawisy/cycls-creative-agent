@@ -84,31 +84,10 @@ The app uses different templates based on the selected ad type:
 
 ---
 
-## ✨ Sample Usage
+## ✨ Sample output
 
-Enter the following:
-
-* **Client:** Nike
-* **Product:** Lightweight running shoes
-* **Audience:** Gen Z athletes
-* **Tone:** Energetic
-* **Type:** قصصي
-
-> The result? A vibrant, story-driven message that hooks the reader emotionally and reflects the tone and brand.
-
----
-
-## 📈 Future Enhancements
-
-* Multi-language support
-* Ad export to PDF/CSV
-* Campaign history and analytics
-
----
-
-## 📢 Contributions
-
-Feel free to fork this repo, open issues, and submit PRs. All contributions are welcome to enhance functionality, templates, or UX.
+<img width="919" height="745" alt="image" src="https://github.com/user-attachments/assets/1ecaac74-b781-44b1-a079-721deb4c628f" />
+<img width="636" height="694" alt="image" src="https://github.com/user-attachments/assets/5a21c471-2a4c-473d-a313-80bc8b9e4e11" />
 
 ---
 
