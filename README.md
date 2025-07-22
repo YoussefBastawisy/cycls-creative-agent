@@ -27,7 +27,7 @@ To streamline the process of creating **creative ad copy** by simply entering a 
   * Ad Type (Storytelling, Humorous, Educational, Emotional, Direct)
 * 🚀 Real-time AI-powered response using **Gemini Pro (Google Generative AI)**
 * ✍️ Fully interactive user interface via **Streamlit**
-* دعم للغة العربية (مخصص للسوق العربي)\*\*
+* دعم للغة العربية (مخصص للسوق العربي)
 
 ---
 
