@@ -1,5 +1,4 @@
-# cycls-creative-agent
-# 🌟 Cycls Creative Agent
+#  Cycls Creative Agent
 
 Welcome to the **Cycls Creative Agent**! This is an intelligent and engaging marketing content generator powered by Google Gemini Pro and Streamlit. Designed to help marketing teams, creatives, and agencies come up with **unique advertising ideas** for various campaigns using the power of AI.
 
@@ -7,7 +6,7 @@ Welcome to the **Cycls Creative Agent**! This is an intelligent and engaging mar
 
 ## 🌐 Live App
 
-Access the deployed app here: [https://your-streamlit-url.streamlit.app](https://your-streamlit-url.streamlit.app)
+Access the deployed app here: [https://cycls-creative-agent.streamlit.app/](https://cycls-creative-agent.streamlit.app/)
 
 ---
 
@@ -37,7 +36,7 @@ To streamline the process of creating **creative ad copy** by simply entering a 
 | Tool                | Version | Purpose                 |
 | ------------------- | ------- | ----------------------- |
 | Streamlit           | Latest  | Web app frontend        |
-| google-generativeai | 0.3.2+  | Access to Gemini Pro AI |
+| google-generativeai | 0.8.5  | Access to Gemini Pro AI |
 | Python              | 3.10+   | Backend logic           |
 
 ---
@@ -47,7 +46,7 @@ To streamline the process of creating **creative ad copy** by simply entering a 
 ### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/creative-agent.git
+git clone https://github.com/YoussefBastawisy/creative-agent.git
 cd creative-agent
 ```
 
@@ -82,19 +81,6 @@ The app uses different templates based on the selected ad type:
 * **Educational:** Informative, clear, and structured explanation
 * **Emotional:** Empathy-driven messaging that touches the heart
 * **Direct:** Clear and urgent CTA-driven ad content
-
----
-
-## 🌐 Deployment
-
-To deploy publicly via [Streamlit Cloud](https://streamlit.io/cloud):
-
-1. Push this repo to GitHub
-2. Go to Streamlit Cloud, link your GitHub repo
-3. Choose `Creative_agent.py` as the main file
-4. Click "Deploy"
-
-Done! You'll get a public URL.
 
 ---
 
